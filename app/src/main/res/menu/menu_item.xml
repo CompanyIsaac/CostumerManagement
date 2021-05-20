@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_costumer"
+        app:showAsAction="always"
+        android:title="@string/add"
+        android:icon="@drawable/ic_add"
+        >
+    </item>
+    <item
+        android:id="@+id/refresh"
+        app:showAsAction="always"
+        android:title="@string/refresh"
+        android:icon="@drawable/ic_refresh"
+        >
+    </item>
+    <item
+        android:id="@+id/log_out_button"
+        app:showAsAction="always"
+        android:title="@string/logout"
+        android:icon="@drawable/ic_login">
+    </item>
+</menu>

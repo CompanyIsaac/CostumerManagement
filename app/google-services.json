@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "672130639310",
+    "project_id": "costumermanagement-8e744",
+    "storage_bucket": "costumermanagement-8e744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672130639310:android:e6ded63248689a0bbf379f",
+        "android_client_info": {
+          "package_name": "com.example.costumermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672130639310-eumah8v58ietai71n5t6d69bpsnjpo8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.costumermanagement",
+            "certificate_hash": "164c3bde54802b102a7dfca3bbeecc883acecb59"
+          }
+        },
+        {
+          "client_id": "672130639310-gi0bbh3hgihh6hccdbp2pr45rglaro0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqX-dvcpqJ-ATfBVEk_6K5XCPOKYH-8m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672130639310-gi0bbh3hgihh6hccdbp2pr45rglaro0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
